@@ -7,7 +7,7 @@ we need to pre proccess the data
 than we will feed it to our choice of network (prob Bi-LSTM)
 we will generte some examples...
 
-than we want to train gpt2 or gpt 3.5 with the same dataset of eminem lyrics
+than we want to train gpt2 or gpt 3.5 or another model(t5 robrta etc..) with the same dataset of eminem lyrics
 and also generate the results 
 
 than we want to compare them both.
