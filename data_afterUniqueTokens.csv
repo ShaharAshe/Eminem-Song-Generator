@@ -239,10 +239,11 @@ Stompin' a mudhole in my comp even if it's off the top of the dome
 Son 'em, get the Coppertone, I'm at the Stop and Go coppin' the Mop and Glo
 Got your stomach in knots like you swallowed rope
 You out of pocket though, like a motherfuckin' wallet stole
-[Outro]
+<endVerse>
+<startOutro>
 Wait, why'd the beat cut off?
 Fuck it
-<endVerse>
+<endOutro>
 <endSong>"
 3,"<startSong>
 <startIntro>
@@ -497,14 +498,15 @@ Sometimes you're gonna bomb
 So you just might have to blow yourself up with no one's help
 I just wrote it down in my book of rhymes
 Preemo, take us out
-[Outro]
+<endVerse>
+<startOutro>
 Writin' in my book of rhymes
 My book of rhymes, my book of rhymes
 I'm, I'm, I'm, I'm, I'm, I'm, I'm eastside
 Writin' in my book of rhymes
 My book of rhymes, my book of rhymes
 I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm eastside
-<endVerse>
+<endOutro>
 <endSong>"
 5,"<startSong>
 <startIntro>
@@ -1226,10 +1228,11 @@ The chickadees runningeth about
 And you'd be lucky to get my seconds
 Leftover hot chicks
 
-[Outro]
+<endVerse>
+<startOutro>
 Hahaha
 Fucking stupid
-<endVerse>
+<endOutro>
 <endSong>"
 12,"<startSong>
 <startIntro>
@@ -1316,10 +1319,11 @@ For who I am (She loves me), but what I got
 But she loves me, she loves me not (Haha)
 She loves me
 
-[Outro]
+<endChorus>
+<startOutro>
 She loves my knot, haha
 I'm just playin', I ain't got no foosball table
-<endChorus>
+<endOutro>
 <endSong>"
 13,"<startSong>
 <startIntro>
@@ -1651,14 +1655,15 @@ No means yes, but yes don't mean no
 So, baby, please, take off your clothes
 (No!) Yes! (No!) Yes! (No!) No! (Yes!) Oh! (Oh!)
 
-[Outro]
+<endChorus>
+<startOutro>
 Haha, yeah
 Dr. Dre
 Black Bethoven
 S1
 2050, haha
 We're out
-<endChorus>
+<endOutro>
 <endSong>"
 17,"<startSong>
 <startIntro>
@@ -2257,10 +2262,11 @@ You wanna battle, I'm available, I'm blowin' up like an inflatable
 I'm undebatable, I'm unavoidable, I'm unevadable
 I'm on the toilet bowl, I got a trailer full of money and I'm paid in full
 I'm not afraid to pull a
-[Outro: Eminem]
+<endVerse>
+<startOutro>
 Man, stop
 Look what I'm plannin', haha
-<endVerse>
+<endOutro>
 <endSong>"
 23,"<startSong>
 <startChorus>
@@ -2372,7 +2378,8 @@ I don't wanna be alone in the darkness
 I don't wanna be alone in the darkness anymore
 (Hello, darkness, my old friend)
 
-[Outro]
+<endChorus>
+<startOutro>
 Yeah, we do have some breaking news from the Associated Press right now
 Just gonna bring that up because we are hearing
 We have told you that the shooter is dead
@@ -2403,7 +2410,7 @@ Breaking news (Fifteen wounded)
 A deadly shooting at a newspaper office in Annapolis (A gunman opened fire)
 Newly-released surveillance video shows the moments leading up to a mass shooting in Dayton, Ohio
 Authorities say the shooter...
-<endChorus>
+<endOutro>
 <endSong>"
 24,"<startSong>
 <startIntro>
@@ -2522,13 +2529,14 @@ Angels won't find me (I wouldn't have went through half the shit I went through,
 Where I am going (Or maybe I should say, ""Thank you"")
 ('Cause I wouldn't have been me, haha)
 
-[Outro: Skylar Grey & Eminem]
+<endChorus>
+<startOutro>
 So you better, you better run (Yeah)
 You better, you better run (So I'ma let it go now, rest in peace)
 You better, you better run (Cocksucker, haha)
 You better, you better run (See you in Hell)
 
-<endChorus>
+<endOutro>
 <endSong>"
 25,"<startSong>
 <startIntro>
@@ -3060,10 +3068,11 @@ I thought you loved me, bitch, you tried to kill me, I'm getting off you
 Quit callin' for me, hard proof's how I respond to
 The Ambien and Tylenols too
 Fuck all you
-[Outro]
+<endVerse>
+<startOutro>
 Fuckin' bitch
 We're done
-<endVerse>
+<endOutro>
 <endSong>"
 30,"<startSong>
 <startVerse>
@@ -3147,10 +3156,11 @@ I thought you loved me, bitch, you tried to kill me, I'm getting off you
 Quit callin' for me, hard proof's how I respond to
 The Ambien and Tylenols too
 Fuck all you
-[Outro]
+<endVerse>
+<startOutro>
 Fuckin' bitch
 We're done
-<endVerse>
+<endOutro>
 <endSong>"
 31,"<startSong>
 <startIntro>
@@ -3665,12 +3675,13 @@ They wanna put my style to the test, am I still
 The best? They want the crown on my head, I said, ""Chill
 If you want me to murder this beat, then I will""
 
-[Outro: Eminem]
+<endChorus>
+<startOutro>
 And I don't think that I can stop it (Here it comes)
 I do my best to try to block it (Redrum)
 I've been sipping on like, vodka (Head's numb)
 I'm blacking out, you better watch it (It's bedlam)
-<endChorus>
+<endOutro>
 <endSong>"
 36,"<startSong>
 <startIntro>
@@ -3820,12 +3831,13 @@ They wanna put my style to the test, am I still
 The best? They want the crown on my head, I said, ""Chill
 If you want me to murder this beat, then I will""
 
-[Outro: Eminem]
+<endChorus>
+<startOutro>
 And I don't think that I can stop it (Here it comes)
 I do my best to try to block it (Redrum)
 I've been sipping on like, vodka (Head's numb)
 I'm blacking out, you better watch it (It's bedlam)
-<endChorus>
+<endOutro>
 <endSong>"
 37,"<startSong>
 [Interlude]
@@ -4271,12 +4283,13 @@ Drugs is what they used to say I was on
 They say I never knew which way I was goin'
 But everywhere I go, they keep playin' my song
 
-[Outro]
+<endChorus>
+<startOutro>
 Brain damage, it's brain damage
 I got brain damage, it's brain damage
 It's probably brain damage, it's brain damage
 Brain damage, I got brain damage
-<endChorus>
+<endOutro>
 <endSong>"
 43,"<startSong>
 Em, what's going on?
@@ -4375,7 +4388,8 @@ Because I'd still be out robbin' armored trucks
 If I had one wish, I would ask
 For a big enough ass for the whole world to kiss
 
-[Outro]
+<endChorus>
+<startOutro>
 You know what I'm sayin'?
 I'm tired of all of this bullshit, tellin' me to be positive
 How am I 'posed to be positive when I don't see shit positive?
@@ -4387,7 +4401,7 @@ Tired of all this player-hatin' that's goin' on in my own city
 Can't get no airplay, you know what I'm sayin'?
 But hey, it's cool though, you know what I'm sayin'?
 I'm just fed up, that's my word
-<endChorus>
+<endOutro>
 <endSong>"
 45,"<startSong>
 <startIntro>
@@ -4492,7 +4506,8 @@ And when we ride
 Just the two of us, just the two of us
 Just you and I
 
-[Outro]
+<endChorus>
+<startOutro>
 (Just the two of us, just the two of us)
 Just me and you, baby, is all we need in this world
 (Just the two of us, just the two of us)
@@ -4504,7 +4519,7 @@ You ever need anything, just ask
 Dada will be right there
 Your dada loves you
 I love you, baby
-<endChorus>
+<endOutro>
 <endSong>"
 46,"<startSong>
 [Zoe]
@@ -4709,7 +4724,8 @@ I never meant to bring you to my world
 But now you're sittin' in the corner, crying
 And now it's my fault, my fault
 
-[Outro]
+<endChorus>
+<startOutro>
 My God, I'm so sorry, I'm so sorry
 Susan, please wake up, please
 Please wake up, what are you doing?!
@@ -4717,7 +4733,7 @@ You're not dead, you're not dead
 I know you're not dead
 Wake up, Susan, wake up
 Oh my God
-<endChorus>
+<endOutro>
 <endSong>"
 49,"<startSong>
 [Ken Kaniff, (Operator), & Eminem]
@@ -5072,11 +5088,12 @@ But see me on the street and duck
 'Cause you finna get stuck, stoned, and snuffed
 ('Cause I just don't give a fuck)
 
-[Outro: Eminem]
+<endChorus>
+<startOutro>
 (Shit, fuck everybody)
 Outsiderz, Pacewon, Young Zee (Fuck the entire world)
 D.U
-<endChorus>
+<endOutro>
 <endSong>"
 53,"<startSong>
 [Roger & Skylar]
@@ -5300,12 +5317,13 @@ I got mushrooms, I got acid, I got tabs and aspirin tablets
 I'm your brother when you need some good weed to set you free
 You know me, I'm your friend when you need a Mini Thin
 (I'm Slim Shady, Shady, Shady, Shady) I'm Shady
-[Outro]
+<endChorus>
+<startOutro>
 I told you I was Shady (Yup)
 Y'all didn't wanna believe me (Mm-mm, mm-mm)
 I'm Shady
 And that's my name
-<endChorus>
+<endOutro>
 <endSong>"
 56,"<startSong>
 [Produced by Jeff Bass]
@@ -5406,7 +5424,8 @@ Against peaceful, see you in Hell for the sequel
 Wall Street (Yup), Royce Da 5'9"", Slim Shady (Uh)
 See you in Hell for the sequel (Bye-bye)
 Bad Meets Evil, what? (Until next time)
-[Outro: Cowboy (Jeff Bass)]
+<endChorus>
+<startOutro>
 And so, that's the story of when Bad meets Evil
 Two of the most wanted individuals in the county
 Made Jesse James and Billy the Kid look like law-abiding citizens
@@ -5414,7 +5433,7 @@ It's too bad they had to go out the way they did
 Got shot in the back comin' out of that old saloon
 But their spirits still live on 'til this day
 Shh, wait, did y'all hear that?
-<endChorus>
+<endOutro>
 <endSong>"
 57,"<startSong>
 [Produced by Bass Brothers]
@@ -5662,7 +5681,8 @@ You know I just be sayin' that to get you mad
 He'll never make it, his wrist is slit too bad
 You know I just be sayin' that to get you mad
 
-[Outro: Eminem & Sway]
+<endChorus>
+<startOutro>
 I know that makes you real mad, don't it? (Uh-huh)
 That's right, Slim Shady (Yup)
 Sway and Tech, sprayin' wreck (Bitch)
@@ -5672,7 +5692,7 @@ So suck my mothafuckin' dick
 The Wake Up Show, let me tell you what it mean to me
 It mean hard beats, hard rhymes, B-boys
 Hip-hop, baby, all the way, forever
-<endChorus>
+<endOutro>
 <endSong>"
 60,"<startSong>
 Met a retarded kid name Greg with a wooden leg
@@ -5805,11 +5825,12 @@ Got your horse and you got your pride
 You ride 'til there ain't no place to hide
 It's sad 'cause the bad guys always die (Always die)
 
-[Outro]
+<endChorus>
+<startOutro>
 The Wild, ha-ha
 The Wild West
 Ha-ha, ride, ha
-<endChorus>
+<endOutro>
 <startIntro>
 The Wild, ha-ha
 The Wild West
@@ -5918,11 +5939,12 @@ Got your horse and you got your pride
 You ride 'til there ain't no place to hide
 It's sad 'cause the bad guys always die (Always die)
 
-[Outro]
+<endChorus>
+<startOutro>
 The Wild, ha-ha
 The Wild West
 Ha-ha, ride, ha
-<endChorus>
+<endOutro>
 <endSong>"
 62,"<startSong>
 <startIntro>
@@ -6673,12 +6695,13 @@ But like a drunk bum, what do I know?
 Let's sleep on it like they did Revival
 I told you you're the apple of my eye, so shut your pie hole
 
-[Outro]
+<endVerse>
+<startOutro>
 Just wanna be normal
 Why can't you be normal? (Yeah)
 I just wanna be normal
 Why can't you be normal?
-<endVerse>
+<endOutro>
 <endSong>"
 69,"<startSong>
 [Skit: Eminem & GPS]
@@ -6825,10 +6848,11 @@ From it I pray that I don't fall
 End up runnin' back into them all
 I never meant to use you all as my stepping stones
 
-[Outro: Eminem]
+<endChorus>
+<startOutro>
 I never meant to make you feel like my stepping stones
 I never meant to use you all for my stepping stones
-<endChorus>
+<endOutro>
 <endSong>"
 71,"<startSong>
 <startIntro>
@@ -7237,13 +7261,14 @@ I inspired the Hopsins, the Logics, the Coles, the
 Seans, the K-Dots, the 5'9""s, and oh
 Brought the world 50 Cent, you did squat, piss and moan
 But I'm not gonna fall bitch! (Yeah)
-[Outro: Justin Vernon]
+<endVerse>
+<startOutro>
 It's too loud
 Can't hear it coming down the hallway stairs from the parking lot
 It's too loud
 Threes not a crowd all up in it
 Slow fire
-<endVerse>
+<endOutro>
 <endSong>"
 74,"<startSong>
 <startChorus>
@@ -7623,12 +7648,13 @@ I don't think you should believe in me the way that you do
 'Cause I'm terrified to let you down, oh
 If I walked on water, I would drown
 
-[Outro: Eminem]
+<endChorus>
+<startOutro>
 'Cause I'm just a man
 But as long as I got a mic, I'm godlike
 So me and you are not alike
 Bitch, I wrote ""Stan""
-<endChorus>
+<endOutro>
 <endSong>"
 78,"<startSong>
 <startVerse>
@@ -9082,7 +9108,8 @@ I want it
 Feel, feel, feel, feel, feel
 My heat
 
-[Outro: Eminem & Mark Wahlberg]
+<endChorus>
+<startOutro>
 On the ones and twos, to three or four in the mornin'
 Rick's on the cut like Neosporin (Girls!)
 He's mixin' it up for me, and you're in
@@ -9090,7 +9117,7 @@ A teddy like short for Theodore
 We're outtie, five thousand
 I wanna fuck, it's my big dick
 So everybody get ready fucking now!
-<endChorus>
+<endOutro>
 <endSong>"
 92,"<startSong>
 <startVerse>
@@ -9991,9 +10018,10 @@ When will the madness end?
 How can it when there's no method to the pad and pen?
 The only message that I have to send
 Is: ""Dad, I'm back at it again!""
-[Outro]
-Yeah (Who's your daddy?)
 <endVerse>
+<startOutro>
+Yeah (Who's your daddy?)
+<endOutro>
 <endSong>"
 100,"<startSong>
 <startIntro>
@@ -10103,10 +10131,11 @@ And I thought, wouldn't shit just be a lot easier
 If you dropped dead? (Bitch)
 I would feel so much, much better
 
-[Outro]
+<endChorus>
+<startOutro>
 I'm just playin', bitch
 You know I love you
-<endChorus>
+<endOutro>
 <endSong>"
 101,"<startSong>
 <startChorus>
@@ -10898,10 +10927,11 @@ Find a way to escape this insaneness (Momma always said)
 ""Son, if you had a brain, you'd be dangerous.""
 Guess it pays to be brainless
 
-[Outro]
+<endChorus>
+<startOutro>
 ""Insaneness"" ain't even a word, you stupid fuck!
 Neither is ""ain't""
-<endChorus>
+<endOutro>
 <endSong>"
 107,"<startSong>
 <startVerse>
@@ -11326,10 +11356,11 @@ I have infinite hate in my blood
 It's mainly 'cause of the game of (*Message sound*)
 Wait, ""dinner at eight""? I have infinite hate in my blood
 It's mainly 'cause of the
-[Outro: Wayne Fontana]
+<endVerse>
+<startOutro>
 Game of love, love, love, love
 La-la-la-la-la love
-<endVerse>
+<endOutro>
 <endSong>"
 110,"<startSong>
 [Produced by Emile Haynie & Jeff Bhasker]
@@ -11708,12 +11739,13 @@ I'm friends with the monster that's under my bed
 (You're tryin' to) You're tryin' to save me, stop holdin' your breath
 (And you think) And you think I'm crazy, yeah, you think I'm crazy
 Well, that's nothin'
-[Outro: Rihanna & (Bebe Rexha)]
+<endChorus>
+<startOutro>
 (Ooh-ooh-ooh-ooh)
 (Ooh-ooh-ooh-ooh, ooh-ooh-ooh-ooh)
 Well, that's nothin' (Ooh-ooh-ooh-ooh)
 (Ooh-ooh-ooh-ooh, ooh-ooh-ooh-ooh, ooh-ooh-ooh-ooh)
-<endChorus>
+<endOutro>
 <endSong>"
 113,"<startSong>
 <startIntro>
@@ -11814,12 +11846,13 @@ I said sometimes I feel like it's just me
 Sometimes I feel like I'm goin' crazy
 But take a look at my family
 'Cause the apple don't fall too far from the tree
-[Outro]
+<endChorus>
+<startOutro>
 Yeah, and I'm the crazy one right?
 Whatever, then let me be the crazy one!
 Balalalalalalalalalala
 Cuckoo, cuckoo, tweet
-<endChorus>
+<endOutro>
 <endSong>"
 114,"<startSong>
 <startChorus>
@@ -12036,13 +12069,14 @@ And then we'll have reason to hate me, yeeheah
 It's like you don't want me to win
 So this time Im goin' in
 
-[Outro: DJ Young Mase]
+<endChorus>
+<startOutro>
 It's the Return of the Dozen Volume Number Two. I go by the name of DJ Young Mase. Welcome back. Swifty McVay, Kon Artis, Kuniva, Bizarre, Marshall Mathers, Big Proof the mayor forever, and Fuzz Scoota. Let's go!
 
 [Sample: Gunnery Sergeant Hartman (R. Lee Ermey)]
 ""You little scumbag! I got your name! I got your ass! You will not laugh! You will not cry! Now get up! Get on your feet!""
 
-<endChorus>
+<endOutro>
 <endSong>"
 116,"<startSong>
 <startIntro>
@@ -12219,7 +12253,8 @@ Detroit basketball
 Homie like I told you this is Detroit basketball
 Man I don't think you ready for the
 
-[Outro: Eminem]
+<endVerse>
+<startOutro>
 We get everybody involved, homie, we get everybody involved
 I said, we get everybody involved, homie, we get everybody involved
 Yeah
@@ -12231,7 +12266,7 @@ Tell me you ain't listenin'
 This is Detroit basketball, homie, hey, yo'
 Beam me up, Scottie
 Hahahahahahahahahahaha!
-<endVerse>
+<endOutro>
 <endSong>"
 118,"<startSong>
 <startIntro>
@@ -12324,9 +12359,10 @@ Uh oh! (Uh oh!)
 Where did it begin? (When did it begin?)
 So long ago (So long ago)
 Maybe way back when (Maybe way back when) (Relapse!)
-[Outro]
-Oh no! (Oh no!)
 <endVerse>
+<startOutro>
+Oh no! (Oh no!)
+<endOutro>
 <endSong>"
 119,"<startSong>
 <startChorus>
@@ -12522,7 +12558,8 @@ Banana, strawberry, pineapple, orange
 Put it on my wee-wee
 Banana, strawberry, pineapple, orange
 
-[Outro]
+<endVerse>
+<startOutro>
 Banana
 Banana
 Banana
@@ -12530,7 +12567,7 @@ Banana
 Banana
 Banana
 
-<endVerse>
+<endOutro>
 <endSong>"
 121,"<startSong>
 <startVerse>
@@ -12814,9 +12851,10 @@ In the air for you and pour some liquor out
 With Obie in the parking lot of 54 just before
 We were supposed to get in cars to come and see you once more
 Difficult as it sounds
-[Outro: Obie Trice]
-Doody!
 <endVerse>
+<startOutro>
+Doody!
+<endOutro>
 <endSong>"
 124,"<startSong>
 <startVerse>
@@ -13141,12 +13179,13 @@ What would you give for a little bit of that c-o-c-a-i-n-e?
 (Cause once you cave in, you don't want to leave)
 I got to have it, yeah I made it, I'm addicted, yeah I'm fading
 (Cause once you cave in, you don't want to leave)
-[Outro]
+<endVerse>
+<startOutro>
 Guess I can't leave it
 So I'm ?
 Oh well... (Fame, fame)
 (Fame)
-<endVerse>
+<endOutro>
 <endSong>"
 128,"<startSong>
 [Interlude ""I Get Money"" Sample]
@@ -13423,14 +13462,15 @@ Ballin' uncontrollably, ballin' uncontrollably, ballin' uncontrollably ba-ballin
 Ballin' uncontrollably, ballin' uncontrollably, ballin' uncontrollably ba-ba-ba controllably
 Ballin' uncontrollably, ballin' uncontrollably, ballin' uncontrollably ba-ballin' uncontrollably
 
-[Outro]
+<endVerse>
+<startOutro>
 Tracy, I joined this class 'cause I thought Id be cooking with a partner
 But shes never here, and I dont get twice the credit for all the work
 
 I didn't invent odd numbers, Seth
 
 I know, but Im over here in my unit, every day, cooking my terrible-tasting food, and then I gotta look over at Evan, I mean look at him, it looks like the most fun Ive ever seen in my entire life. And, Im just saying, I wash and dry, Im like a single mother. And, no offense but, everyone takes this class to get an A and its bullshit, but uh no offense, Im just saying. And Im not putting down your profession, but when am I gonna need to cook tiramisu? Am I gonna be a chef? No. Theres 3 weeks left in school, give me a freaking break, sorry for cursing. OH MY GOD thats like the coolest fucking story Ive ever heard in my life, its insane. Can you tell us again? Do you have time? Tracy, Tracy, can you hear me? Im in the car right now. Listen, I am McLovin, yeah. McLovin in the house! McLovin in the house! Yeah
-<endVerse>
+<endOutro>
 <endSong>"
 131,"<startSong>
 <startVerse>
@@ -13667,7 +13707,8 @@ We were meant to be
 And I love you too
 And I promise Ill be true to you
 
-[Outro: Eminem]
+<endVerse>
+<startOutro>
 It is not about lyrics anymore
 It is not about lyrics anymore
 It's about a hot beat, a hot beat
@@ -13685,7 +13726,7 @@ Now, get out there and sell some goddamn records!
 Now, get out there and sell some goddamn records!
 Now, get out there and sell some goddamn records!
 Now, get out there and sell some
-<endVerse>
+<endOutro>
 <endSong>"
 133,"<startSong>
 <startIntro>
@@ -13791,7 +13832,8 @@ It means the Greatest Of All Time
 And I consider myself one of those
 So thank you very much, here it goes
 
-[Outro]
+<endVerse>
+<startOutro>
 Man, I'm takin' my ball and goin' home
 Man, shit is too easy
 Nobody even wants to pass me the ball
@@ -13808,7 +13850,7 @@ And y'all ain't gotta say it, just think it
 Cause I know that you know that I know
 That you know that I know that I'm a G.O.A.T.
 I'm out y'all, it's been realpeace!
-<endVerse>
+<endOutro>
 <endSong>"
 134,"<startSong>
 
@@ -14661,11 +14703,12 @@ I guarantee I'll be the greatest thing you ever had
 'Cause you ain't never met nobody like me
 And you ain't gonna wanna fuck nobody else again
 
-[Outro]
+<endChorus>
+<startOutro>
 Dr. Dre
 2010
 Lightyears ahead of you
-<endChorus>
+<endOutro>
 <endSong>"
 142,"<startSong>
 <startIntro>
@@ -15067,12 +15110,13 @@ And remember, boys
 You don't own me
 Now here we go, go, go
 
-[Outro: Eminem]
+<endChorus>
+<startOutro>
 Thank you for coming out
 I hope you enjoyed the show
 'Til next time (Ha-ha)
 Peace (Peace, peace)
-<endChorus>
+<endOutro>
 <endSong>"
 146,"<startSong>
 <startIntro>
@@ -15175,7 +15219,8 @@ Would you excuse me while I feel my nuts?
 My balls are feeling a mighty big now
 I might just have to dig down and pull 'em through my britches
 
-[Outro]
+<endChorus>
+<startOutro>
 Yeah, what the deal?
 I'm feeling hard as hell right now, homie
 I almost feel...
@@ -15184,7 +15229,7 @@ Aye, Dre!
 You got me feeling like
 I can't be touched right now, fool, ha!
 I'm unstoppable, damn
-<endChorus>
+<endOutro>
 <endSong>"
 147,"<startSong>
 <startIntro>
@@ -15419,7 +15464,8 @@ I'm as cold as the cold wind blows
 Blow-blow-blows
 Blow-blow, blows, oh, oh-oh-oh, oh
 
-[Outro]
+<endChorus>
+<startOutro>
 I don't know, I don't know what caused
 I don't know what caused me to be this way
 I don't know, I don't know
@@ -15427,7 +15473,7 @@ But I'll probably be this way 'til my dyin' day
 I don't know why I'm so, I'm so cold
 Mean things I don't mean to say
 I guess this is how you made me
-<endChorus>
+<endOutro>
 <endSong>"
 149,"<startSong>
 <startIntro>
@@ -15568,7 +15614,8 @@ Is there anyone out there who feels the way I feel?
 If there is, then lend me an ear
 Just so I know that I'm not the only one
 
-[Outro: Eminem]
+<endChorus>
+<startOutro>
 So there it is, damn
 Feels like I just woke up or something
 I guess I just forgot who the fuck I was, man
@@ -15577,7 +15624,7 @@ It was never nothing personal
 It was just some shit I was going through
 And to everybody else, I'm back! (I'm back!)
 Ha-ha (Ha-ha)
-<endChorus>
+<endOutro>
 <endSong>"
 150,"<startSong>
 <startIntro>
@@ -16259,7 +16306,8 @@ That's why I am like I am 'cause I'm like her
 Because my mom loved Valium and lots of drugs
 That's why I'm on what I'm on 'cause I'm my mom
 
-[Outro]
+<endChorus>
+<startOutro>
 My mom, I'm just like her
 My mom, my mom, my mom
 My mom, my mom, my mom
@@ -16272,7 +16320,7 @@ Dr. Dre, 2010
 Hey, this shit is hella hard, homie
 Yo, take us on outta here
 Woo!
-<endChorus>
+<endOutro>
 <endSong>"
 156,"<startSong>
 [Produced by Dr. Dre]
@@ -16482,13 +16530,14 @@ Bagpipes from Baghdad
 I run the streets and act like a madman
 Holding a Glad bag, oh, bagpipes from Baghdad
 
-[Outro]
+<endChorus>
+<startOutro>
 Hghum-day-li-laaa-aaa-aaa-aaa-aa-aah-aah
 Hghum-day-li-laaa-aaa-aaa-aaa-aa-aah-aah
 Hghum-day-li-laaa-aaa-aaa-aaa-aa-aah-aah
 Hghum-day-li-laaa-aaa-aaa-aaa-aa-aah-aah
 
-<endChorus>
+<endOutro>
 <endSong>"
 158,"<startSong>
 <startIntro>
@@ -16590,7 +16639,8 @@ Some are blue and some are just yellow
 Girl, I don't mean any harm
 All I wanted to do is just say hello
 
-[Outro]
+<endChorus>
+<startOutro>
 And so I'm saying, hello (hello)
 Allow me to introduce myself (myself)
 My name is Shady
@@ -16601,7 +16651,7 @@ My name is Shady
 I never meant to leave you (never meant to leave you)
 Yeah, it's like starting over
 Clean slate, hah
-<endChorus>
+<endOutro>
 <endSong>"
 159,"<startSong>
 [Tonya]
@@ -16739,7 +16789,8 @@ You sexy little thing, show me what you got, give it your all
 Look at you bawl, why you crying to me?
 Same song and dance
 
-[Outro]
+<endChorus>
+<startOutro>
 Same kicking and screaming, same crying and sobbing
 Same song and dance
 Same begging and pleading, same yelling and bleeding
@@ -16748,7 +16799,7 @@ Yeah
 Same song and dance
 I know
 Same song and dance
-<endChorus>
+<endOutro>
 <endSong>"
 161,"<startSong>
 <startIntro>
@@ -16844,9 +16895,10 @@ I said, I guess it's time for you to hate me again
 Let's begin, now hand me the pen
 How should I begin it and where does it all end?
 My medicine ball, you're in my medicine ball, friends
-[Outro]
-The world is mine
 <endChorus>
+<startOutro>
+The world is mine
+<endOutro>
 <endSong>"
 162,"<startSong>
 <startIntro>
@@ -16959,14 +17011,15 @@ Bodies layin' all over the floor and
 I don't remember how they got there
 But I guess I must've killed 'em, killed 'em
 
-[Outro]
-Yo, yo, ayo (Evil rise)
-Yo, yo, ayo (Evil rise)
-Yo, yo, ayo (Evil rise)
-Yo, yo, ayo (Evil rise)
-(Evil rise)
-(Evil rise)
 <endVerse>
+<startOutro>
+Yo, yo, ayo (Evil rise)
+Yo, yo, ayo (Evil rise)
+Yo, yo, ayo (Evil rise)
+Yo, yo, ayo (Evil rise)
+(Evil rise)
+(Evil rise)
+<endOutro>
 <endSong>"
 163,"<startSong>
 <startIntro>
@@ -17083,7 +17136,8 @@ Everybody wants you (Everybody wants you)
 Player, who can really blame you? (Who can really blame you?)
 Were the ones who made you
 
-[Outro: Eminem]
+<endChorus>
+<startOutro>
 So baby
 Baby, get down, down, down
 Baby, get down, down, down
@@ -17098,7 +17152,7 @@ I can't wait, I'm going back
 Ha-ha, woo!
 Dr. Dre! 2020!
 Yeah!
-<endChorus>
+<endOutro>
 <endSong>"
 164,"<startSong>
 [Skit: Paul Rosenberg]
@@ -17788,14 +17842,15 @@ Are you trying to get through?
 Are you reaching out for me?
 Then I'm reaching out for you
 
-[Outro]
+<endChorus>
+<startOutro>
 Yeah, to my babies: stay strong
 Daddy'll be home soon
 And to the rest of the world: God gave you shoes to fit you
 So put 'em on and wear 'em, be yourself, man
 Be proud of who you are, and even if it sounds corny
 Never let no one tell you you ain't beautiful
-<endChorus>
+<endOutro>
 <endSong>"
 171,"<startSong>
 [""Old Time's Sake"" by Eminem plays in the background]
@@ -17980,7 +18035,8 @@ Nowhere to run, to run to now
 I disappeared, don't wonder how
 Lookin' for me? I'm underground
 
-[Outro]
+<endChorus>
+<startOutro>
 So, it wasn't a choice, it was ""I had to do this.""
 And now I got 90 days clean
 And uh, that's all I have to share, thanks
@@ -18000,7 +18056,7 @@ This always went over real big in Gay-A
 Okay, wait, I got another one
 ""I just love condoms and lots of cum.""
 No? Well, shit!
-<endChorus>
+<endOutro>
 <endSong>"
 173,"<startSong>
 <startIntro>
@@ -18584,7 +18640,8 @@ He'd say, ""What if you went platinum?"", I'd just laugh at him
 Eighty-some million records worldwide later
 I'm living in a house with a fucking elevator
 
-[Outro]
+<endChorus>
+<startOutro>
 You fucking son of a bitch, I can't believe this shit
 This must be all that there is, this must be it
 Fucking-A, even got a bidet
@@ -18593,7 +18650,7 @@ Dishwasher's so big, when I'm pissed off
 I can just toss a flying saucer in it, the shit's awesome
 Yeah, fucking elevator
 Living in a house with a fucking elevator
-<endChorus>
+<endOutro>
 <endSong>"
 178,"<startSong>
 <startIntro>
@@ -18703,7 +18760,8 @@ I can put you in a trance the way I dance
 But don't nobody wanna play with me
 So I'm taking my ball and going home, home
 
-[Outro]
+<endChorus>
+<startOutro>
 Fine, nobody wants to play with me?
 Fuck you then, bitch!
 You guys are always mean to me anyways
@@ -18711,7 +18769,7 @@ All you ever do is rub gum in my hair and stuff
 You guys are gonna make me... make me sad, I'm sad
 I'm gonna cry... I'm crying
 I'm going to tell my mom... Mom!
-<endChorus>
+<endOutro>
 <endSong>"
 179,"<startSong>
 <startIntro>
@@ -19268,13 +19326,14 @@ Owwww, owwww, owwww (Oh, goddamn!)
 I'm gonna facking cum! (Oh, shit!)
 Fack, fack, fack (Fuck, I am!)
 I am, I'm going to cum (I'm cumming!)
-[Outro]
+<endChorus>
+<startOutro>
 Shove a gerbil in your ass through a tube
 Shove a gerbil in your ass through a tube
 Shove a gerbil in your ass through a tube
 Shove a gerbil in your ass through a tube
 Ew, ew, ew, ew
-<endChorus>
+<endOutro>
 <endSong>"
 185,"<startSong>
 [Segue from ""Steve Berman (Skit)""]
@@ -19649,9 +19708,10 @@ And had his girlfriend in the trunk, and she was pregnant with his kid
 And in the car they found a tape, but they didn't say who it was to
 Come to think about it, his name wasit was you
 
-[Outro]
-Damn
 <endVerse>
+<startOutro>
+Damn
+<endOutro>
 <endSong>"
 188,"<startSong>
 <startIntro>
@@ -19756,9 +19816,10 @@ The moment, you own it, you better never let it go (Go!)
 You only get one shot, do not miss your chance to blow
 This opportunity comes once in a lifetime, yo
 You better
-[Outro]
-You can do anything you set your mind to, man
 <endChorus>
+<startOutro>
+You can do anything you set your mind to, man
+<endOutro>
 <endSong>"
 189,"<startSong>
 <startIntro>
@@ -19863,7 +19924,8 @@ Some girls, they act retarded
 Some girls are 'bout it, 'bout it
 I'm lookin' fo' a girl that will do whatever the fuck
 I say, every day she be givin' it up
-[Outro: Nate Dogg & Eminem]
+<endVerse>
+<startOutro>
 There she go, shakin' that ass on the flo'
 Bumpin' and grindin' that pole
 The way she's grindin' that pole
@@ -19873,7 +19935,7 @@ I ain't leavin' without you, bitch!
 Comin' home with me!
 And my boy, and his boy  and his boy, and his girl
 Ha-ha, Nate Dogg!
-<endVerse>
+<endOutro>
 <endSong>"
 190,"<startSong>
 <startVerse>
@@ -20100,13 +20162,14 @@ So everybody, just follow me
 Cause we need a little controversy
 Cause it feels so empty without me
 
-[Outro: Eminem]
+<endChorus>
+<startOutro>
 Hum dei dei la la, la la la la la
 La la la la la, la la la la
 Hum dei dei la la, la la la la la
 La la la la la, la la la la
 Kids!
-<endChorus>
+<endOutro>
 <endSong>"
 192,"<startSong>
 <startIntro>
@@ -20339,12 +20402,13 @@ All you other Slim Shadys are just imitating
 So won't the real Slim Shady please stand up
 Please stand up, please stand up?
 
-[Outro]
+<endChorus>
+<startOutro>
 Ha ha, I guess theres a Slim Shady in all of us
 Fuck it, lets all stand up!
 
 [Produced by Dr. Dre & Mel-Man]
-<endChorus>
+<endOutro>
 <endSong>"
 194,"<startSong>
 <startIntro>
@@ -20763,12 +20827,13 @@ Just lose it (Ah-ah-ah-ah-ah)
 Go crazy (Ah-ah-ah-ah-ah)
 Oh, baby (Ah-ah), oh, baby, baby (Ah-ah)
 
-[Outro]
+<endChorus>
+<startOutro>
 Touch my body
 Touch my body
 Oh boy, just touch my body
 I mean girl, just touch my body
-<endChorus>
+<endOutro>
 <endSong>"
 198,"<startSong>
 <startIntro>
@@ -21016,11 +21081,12 @@ The weak or the strong
 Who got it going on?
 You're dead wrong (*repeat to fade*)
 
-[Outro: Diddy]
+<endChorus>
+<startOutro>
 We won't stop, 'cause we can't stop
 
 [Produced by Chucky Thompson and Mario Winans]
-<endChorus>
+<endOutro>
 <endSong>"
 200,"<startSong>
 <startIntro>
@@ -21238,10 +21304,11 @@ You don't wanna fuck with Shady ('Cause why?)
 I said you don't wanna fuck with Shady (Why not?)
 'Cause Shady will fucking kill you
 
-[Outro]
+<endChorus>
+<startOutro>
 Ha-ha-ha, I'm just playing, ladies
 You know I love you
-<endChorus>
+<endOutro>
 <endSong>"
 202,"<startSong>
 <startIntro>
@@ -21400,7 +21467,8 @@ I'll shit on you!
 I will fuck your wife if you fuck with me
 I'll shit on you!
 
-[Outro: Eminem]
+<endVerse>
+<startOutro>
 You heard me
 Bitch, I'll shit on you
 D12 will shit on you
@@ -21418,7 +21486,7 @@ I'll shit on you
 I'll shit on you
 I'll shit on you
 I'll shit on you
-<endVerse>
+<endOutro>
 <endSong>"
 203,"<startSong>
 <startIntro>
@@ -21570,9 +21638,10 @@ To tell 'em what's on my mind, I guess I'm a criminal!
 I don't gotta say a word, I just flip 'em the bird
 And keep goin', I don't take shit from no one
 
-[Outro]
-(I am) I'm a criminal!
 <endChorus>
+<startOutro>
+(I am) I'm a criminal!
+<endOutro>
 <endSong>"
 204,"<startSong>
 <startVerse>
@@ -21796,11 +21865,12 @@ But see me on the street and duck
 'Cause you finna get stuck, stoned, and snuffed
 ('Cause I just don't give a fuck)
 
-[Outro: Eminem]
+<endChorus>
+<startOutro>
 (Shit, fuck everybody)
 Outsiderz, Pacewon, Young Zee (Fuck the entire world)
 D.U
-<endChorus>
+<endOutro>
 <endSong>"
 206,"<startSong>
 *Crowd cheering*
@@ -21914,14 +21984,15 @@ Therefore I did not know that I would grow to be
 My mother's evil seed and do these evil deeds
 (Evil deeds, evil deeds, evil deeds)
 
-[Outro]
+<endVerse>
+<startOutro>
 [Gunshot]
 [Crowd cheering]
 Oh!
 Last one, baby, let's go
 Last one, baby, let's go
 Detroit!
-<endVerse>
+<endOutro>
 <endSong>"
 208,"<startSong>
 <startVerse>
@@ -22121,11 +22192,12 @@ As we go on another episode
 Journey with me as I take you through this nifty little place
 That I once used to call home sweet home
 
-[Outro: Debbie Mathers]
+<endChorus>
+<startOutro>
 Fuck out of my house, you fuckin' pieces of shit!
 Get the fuck out of my house, you stupid fucker!
 You son of a bitch!
-<endChorus>
+<endOutro>
 <endSong>"
 210,"<startSong>
 <startIntro>
@@ -22300,14 +22372,15 @@ You must just not kno-o-o-o-o-o-ow
 You may not think you do, but you do
 Every time I think of you I puke
 
-[Outro]
+<endVerse>
+<startOutro>
 *Eminem pukes into the toilet*
 *Eminem hocks and spits into the toilet*
 *Toilet flush*
 *Eminem burps*
 Ah, damn!
 Fucking bitch
-<endVerse>
+<endOutro>
 <endSong>"
 212,"<startSong>
 <startIntro>
@@ -22574,14 +22647,15 @@ With this level of fame
 My soul is possessed by this devil
 My new name is Rain Man
 
-[Outro: Eminem & Dr. Dre]
+<endChorus>
+<startOutro>
 'Cause...
 Yup, Rain Man
 Definitely, definitely Dr. Dre
 Super-dope beatmaker
 2000 and, 2400 and 87 million, 900 and se-73,400 and 63... and 70
 Yeah
-<endChorus>
+<endOutro>
 <endSong>"
 215,"<startSong>
 <startIntro>
@@ -22685,7 +22759,8 @@ To the light at the end of the tunnel, we gon' fight, we gon' charge
 We gon' stomp, we gon' march through the swamp
 We gon' mosh through the marsh, take us right through the doors, come on
 
-[Outro: Eminem & Hailie Jade]
+<endChorus>
+<startOutro>
 And as we proceed
 To mosh through this desert storm
 And these closing statements
@@ -22698,7 +22773,7 @@ And mosh for the future of our next generation
 To speak and be heard
 Mr. President, Mr. Senator
 Can you guys hear us?
-<endChorus>
+<endOutro>
 <endSong>"
 216,"<startSong>
 <startIntro>
@@ -22807,9 +22882,10 @@ But it's only 'cause you're just really jealous of me
 When you say these mean things, 'cause it's too easy to see
 You're really just a big weenie, big weenie
 
-[Outro]
-Fuck off my dick
 <endChorus>
+<startOutro>
+Fuck off my dick
+<endOutro>
 <endSong>"
 217,"<startSong>
 [Spoken: Eminem]
@@ -23407,7 +23483,8 @@ Without at least saying goodbye
 So all my people on the left, all my people on the right
 Swing one last time
 
-[Outro: Eminem & 50 Cent]
+<endChorus>
+<startOutro>
 Yeah, haha! Still Aftermath, 2006! And dont worry about that Detox album, its comin We gon make Dre do it! Haha! 50 Cent, G-Unit, Obie Trice, D-Twizzy, Stat Quo, Dr. Dre! We aint leaving, lets go, haha! Ladies and gentlemen, thank you all for coming out! Peace!
 *People chanting Eminems name*
 *Eminem Leaves*
@@ -23421,7 +23498,7 @@ Youre coming with me!
 Ha ha ha. Bye, bye!
 *Eminem shoots himself*
 See you in hell, fuckers!
-<endChorus>
+<endOutro>
 <endSong>"
 224,"<startSong>
 <startIntro>
@@ -23540,12 +23617,13 @@ Just lose it (Ah-ah-ah-ah-ah)
 Go crazy (Ah-ah-ah-ah-ah)
 Oh, baby (Ah-ah), oh, baby, baby (Ah-ah)
 
-[Outro]
+<endChorus>
+<startOutro>
 Touch my body
 Touch my body
 Oh boy, just touch my body
 I mean girl, just touch my body
-<endChorus>
+<endOutro>
 <endSong>"
 225,"<startSong>
 <startIntro>
@@ -23650,11 +23728,12 @@ I ain't never seen an ass like that
 'Cause the way you move it, you make my pee-pee go
 D-doing, doing, doing
 
-[Outro: Eminem & Dr. Dre]
+<endChorus>
+<startOutro>
 Woo
 Fuck is wrong with you?
 Hah
-<endChorus>
+<endOutro>
 <endSong>"
 226,"<startSong>
 <startIntro>
@@ -24042,7 +24121,8 @@ I don't got no time to play around, what is this?
 Must be a circus in town, let's shut the shit down
 On these clowns; can I get a witness? (Hell yeah!)
 
-[Outro: Eminem]
+<endChorus>
+<startOutro>
 So there you have it, folks
 (Marshall!) has come to save the day
 Back with his friend Andre
@@ -24056,7 +24136,7 @@ Same blonde hair, same rap channel
 Good night, everyone!
 Thank you for coming! Your host for the evening (Marshall!)
 Oh! Heh
-<endChorus>
+<endOutro>
 <endSong>"
 230,"<startSong>
 Yeah... Shady
@@ -24177,7 +24257,8 @@ You know you don't want it with me
 You talk and soon you gon' see
 You don't wanna bump heads with me
 
-[Outro: Tony Yayo]
+<endChorus>
+<startOutro>
 Yeah nigga
 Shady Aftermath
 G Unit
@@ -24187,7 +24268,7 @@ Uh huh
 And don't think we ain't billin' you for this motherfuckin' studio time
 Matter fact keep em on 50
 We call it even. Ha
-<endChorus>
+<endOutro>
 <endSong>"
 231,"<startSong>
 <startVerse>
@@ -24470,9 +24551,10 @@ The moment, you own it, you better never let it go (Go!)
 You only get one shot, do not miss your chance to blow
 This opportunity comes once in a lifetime, yo
 You better
-[Outro]
-You can do anything you set your mind to, man
 <endChorus>
+<startOutro>
+You can do anything you set your mind to, man
+<endOutro>
 <endSong>"
 234,"<startSong>
 <startIntro>
@@ -24807,13 +24889,14 @@ So everybody, just follow me
 Cause we need a little controversy
 Cause it feels so empty without me
 
-[Outro: Eminem]
+<endChorus>
+<startOutro>
 Hum dei dei la la, la la la la la
 La la la la la, la la la la
 Hum dei dei la la, la la la la la
 La la la la la, la la la la
 Kids!
-<endChorus>
+<endOutro>
 <endSong>"
 237,"<startSong>
 <startIntro>
@@ -24931,14 +25014,15 @@ Pain, pain (I don't know it's just the way I am)
 Pain, pain
 Ahh (Radio won't even play my jam)
 
-[Outro: Eminem]
+<endChorus>
+<startOutro>
 'Cause I am whatever you say I am
 'Cause I am whatever you say I am
 'Cause I am whatever you say I am
 Radio won't even play my jam
 'Cause I am whatever you say I am
 'Cause I am whatever you say I am
-<endChorus>
+<endOutro>
 <endSong>"
 238,"<startSong>
 [Produced by Mark the 45 King]
@@ -25090,9 +25174,10 @@ And had his girlfriend in the trunk, and she was pregnant with his kid
 And in the car they found a tape, but they didn't say who it was to
 Come to think about it, his name wasit was you
 
-[Outro]
-Damn
 <endVerse>
+<startOutro>
+Damn
+<endOutro>
 <endSong>"
 239,"<startSong>
 It's like this and like that and like this
@@ -25237,7 +25322,8 @@ You know I just be sayin' that to get you mad
 He'll never make it, his wrist is slit too bad
 You know I just be sayin' that to get you mad
 
-[Outro: Eminem & Sway]
+<endChorus>
+<startOutro>
 I know that makes you real mad, don't it? (Uh-huh)
 That's right, Slim Shady (Yup)
 Sway and Tech, sprayin' wreck (Bitch)
@@ -25247,7 +25333,7 @@ So suck my mothafuckin' dick
 The Wake Up Show, let me tell you what it mean to me
 It mean hard beats, hard rhymes, B-boys
 Hip-hop, baby, all the way, forever
-<endChorus>
+<endOutro>
 <endSong>"
 241,"<startSong>
 [Segue from ""Steve Berman (Skit)""]
@@ -25488,7 +25574,8 @@ So you don't act like everyone else does (Like I do)
 And there's really nothin' else to say (That's right)
 Drugs are just bad, mmkay?
 
-[Outro]
+<endChorus>
+<startOutro>
 Come on, children, clap along! (Shut up!)
 Sing along, children! (Suck my motherfuckin' dick!)
 Come on, clap along
@@ -25498,7 +25585,7 @@ So there'll be more for me (Hippie! Goddamn it!)
 (Mushrooms killed Kenny!)
 (Uh, the fart button's on) (*fart*) (Ew, ahh!)
 La la la (So fucked up right now)
-<endChorus>
+<endOutro>
 <endSong>"
 243,"<startSong>
 <startIntro>
@@ -25603,7 +25690,8 @@ And when we ride
 Just the two of us, just the two of us
 Just you and I
 
-[Outro]
+<endChorus>
+<startOutro>
 (Just the two of us, just the two of us)
 Just me and you, baby, is all we need in this world
 (Just the two of us, just the two of us)
@@ -25615,7 +25703,7 @@ You ever need anything, just ask
 Dada will be right there
 Your dada loves you
 I love you, baby
-<endChorus>
+<endOutro>
 <endSong>"
 244,"<startSong>
 [Skit: Eminem, Steve Berman, Vanessa (Secretary)]
@@ -25783,12 +25871,13 @@ All you other Slim Shadys are just imitating
 So won't the real Slim Shady please stand up
 Please stand up, please stand up?
 
-[Outro]
+<endChorus>
+<startOutro>
 Ha ha, I guess theres a Slim Shady in all of us
 Fuck it, lets all stand up!
 
 [Produced by Dr. Dre & Mel-Man]
-<endChorus>
+<endOutro>
 <endSong>"
 246,"<startSong>
 <startChorus>
@@ -26067,7 +26156,8 @@ Now here they come as we expected, now we just set 'em up
 Check-mate, motherfucker, game's over, we won
 Tweedle-dee, tweedle-dum
 
-[Outro]
+<endChorus>
+<startOutro>
 Fucking dummies
 This aint chess
 You playin' motherfucking checkers
@@ -26086,7 +26176,7 @@ Fuck Im supposed to do now?
 Huh?!
 What the fuck I'm supposed to do?!
 Yo, we out!
-<endChorus>
+<endOutro>
 <endSong>"
 249,"<startSong>
 <startIntro>
@@ -26561,9 +26651,10 @@ To go; I cannot grow old in Salem's Lot
 So here I go, it's my shot: feet, fail me not
 This may be the only opportunity that I got
 
-[Outro: Groove Coverage]
-God is a girl!
 <endVerse>
+<startOutro>
+God is a girl!
+<endOutro>
 <endSong>"
 253,"<startSong>
 <startIntro>
@@ -26660,10 +26751,11 @@ I'll be damned if I don't stand up to a bully
 Fight like a man and throw my hands up to a bully
 Irvine, get your boy off of that E
 
-[Outro]
+<endChorus>
+<startOutro>
 Get at me, dawg
 Holla
-<endChorus>
+<endOutro>
 <endSong>"
 254,"<startSong>
 <startIntro>
@@ -26791,7 +26883,8 @@ Don't you never in your motherfuckin' life
 I'll choke the shit out of you little motherfuckin' midget
 Hailie'll whip your motherfuckin' ass
 
-[Outro: Obie Trice]
+<endVerse>
+<startOutro>
 That's right, motherfuckers
 Shady records, what you know about it?
 Fuck Benzino! Fuck Ja Rule!
@@ -26804,10 +26897,11 @@ You don't know what's, faggot-ass motherfuckers
 Get money to all my real niggas, man
 Obie Trice, D-12, G Unit, 50 Cent, Hailie Jade
 
-[Outro: Hailie and Eminem]
+<endOutro>
+<startOutro>
 Daddy, is Ja Rule taller than me?
 No, honey, you guys are the same size
-<endVerse>
+<endOutro>
 <endSong>"
 255,"<startSong>
 <startIntro>
@@ -27055,14 +27149,15 @@ Shady in the place to be see
 And I got what it takes to rock the mic, aight!
 Still keep talking shit to me punk
 'Cause your magazine's over in less than six months!
-[Outro: Eminem]
+<endVerse>
+<startOutro>
 Haha, Shady Records, still Aftermath!
 And don't think we can hear you motherfuckers talking
 'Cause we can't
 We don't hear y'all
 So we just gonna sit back for the rest of our lives
 While you ride our dicks
-<endVerse>
+<endOutro>
 <endSong>"
 258,"<startSong>
 <startIntro>
@@ -27188,7 +27283,8 @@ You know you don't want it with me
 You talk and soon you gon' see
 You don't wanna bump heads with me (Wanna bump heads with me)
 
-[Outro: Tony Yayo]
+<endChorus>
+<startOutro>
 Yeah, nigga
 Yeah, Shady Aftermath
 G-Unit
@@ -27196,7 +27292,7 @@ Fuck you think they call us G-Unit for?
 'Cause we move units, huh-uh
 Don't think we ain't billin' you for this motherfuckin' studio time
 Matter of fact, keep it on 50, we'll call it even, ha
-<endChorus>
+<endOutro>
 <endSong>"
 259,"<startSong>
 <startIntro>
@@ -27520,7 +27616,8 @@ White America! Little Eric looks just like this
 White America! Erica loves my shit
 I go to TRL, look how many hugs I get!
 
-[Outro]
+<endChorus>
+<startOutro>
 So to the parents of America, I am the Derringer
 Aimed at little Erica to attack her character
 The ringleader of this circus of worthless pawns
@@ -27532,7 +27629,7 @@ Fuck you, Ms. Cheney! Fuck you, Tipper Gore!
 Fuck you with the freest of speech this Divided States of Embarrassment will allow me to have! Fuck you!
 Ha ha ha, I'm just playin', America
 You know I love you
-<endChorus>
+<endOutro>
 <endSong>"
 262,"<startSong>
 <startIntro>
@@ -27741,7 +27838,8 @@ Let's do-si-do now! We gon' have a good ol' time
 Don't be scared, cause there ain't nothin' to worry about
 Let your hair down, and square dance with me!
 
-[Outro: Eminem & Dr. Dre]
+<endChorus>
+<startOutro>
 Dr. Dre wants to square dance with me
 Nasty Nas wants to square dance with me
 X to the Z wants to square dance with me
@@ -27751,7 +27849,7 @@ Fan-a-bitch won't square dance with me
 Canada-bis don't want no parts of me
 Dirty Dozen wants to square dance with you
 Yeeehawww! Wee!
-<endChorus>
+<endOutro>
 <endSong>"
 264,"<startSong>
 <startIntro>
@@ -27860,12 +27958,13 @@ They won't budge, I'll never fall or fold up
 (I'm a soldier)
 Even if my collarbones crush or crumble
 I will never stumble
-[Outro]
-Yo, left, yo, left, yo, left, right, left
-Yo, left, yo, left, yo, left, right, left
-Yo, left, yo, left, yo, left, right, left
-Yo, left, yo, left, yo, left, right, left
 <endChorus>
+<startOutro>
+Yo, left, yo, left, yo, left, right, left
+Yo, left, yo, left, yo, left, right, left
+Yo, left, yo, left, yo, left, right, left
+Yo, left, yo, left, yo, left, right, left
+<endOutro>
 <endSong>"
 265,"<startSong>
 <startChorus>
@@ -27975,14 +28074,15 @@ Sayin' goodbye, sayin' goodbye to Hollywood
 Sayin' goodbye, sayin' goodbye to Hollywood
 Sayin' goodbye, sayin' goodbye to Hollywood
 
-[Outro]
+<endChorus>
+<startOutro>
 Goodbye, goodbye Hollywood (Goodbye)
 Please don't cry for me (It's been real)
 When I'm gone for good (This shit is not for me)
 So goodbye, goodbye Hollywood (I'm not a fuckin' star)
 Please don't cry for me (No way)
 When I'm gone for good (I'm goin' back home)
-<endChorus>
+<endOutro>
 <endSong>"
 266,"<startSong>
 <startIntro>
@@ -28246,7 +28346,8 @@ Everyone's leanin' on me
 'Cause my baby knows that her daddy's a soldier
 Nothin' can take her from me
 
-[Outro]
+<endChorus>
+<startOutro>
 Wooo! Told you I can't sing
 Oh, wellI tried
 Hailie, 'member when I said
@@ -28254,7 +28355,7 @@ If you ever need anything, Daddy would be right there?
 Guess whatDaddy's here
 And I ain't goin' nowhere, baby
 I love you (??*smooch*)??
-<endChorus>
+<endOutro>
 <endSong>"
 268,"<startSong>
 [Skit: Eminem, Steve Berman]
@@ -28401,10 +28502,11 @@ How you say it whenever you sayin' it, just remember
 How you said it when you was sprayin' it, so who you playin' with
 Huh? (Huh, huh, huh)
 
-[Outro: Dr. Dre & Timbaland]
+<endChorus>
+<startOutro>
 Watch your fuckin' mouth
 Yo, this Timbaland, tell him I said suck my dick
-<endChorus>
+<endOutro>
 <endSong>"
 270,"<startSong>
 <startIntro>
@@ -28507,14 +28609,15 @@ I'ma rip this shit 'til my bones collapse
 (Until my legs) 'Til the smoke clears out, am I high? Perhaps
 (Give out from underneath me) I'ma rip this shit 'til my bones collapse
 
-[Outro: Eminem, (Nate Dogg), & Both]
+<endChorus>
+<startOutro>
 Until the roof (Until the roof)
 The roof comes off (The roof comes off)
 Until my legs (Until my legs)
 Give out from underneath me
 I, I will not fall, I will stand tall
 Feels like no one can beat me
-<endChorus>
+<endOutro>
 <endSong>"
 271,"<startSong>
 *Television static*
@@ -28622,11 +28725,12 @@ I think my dad's gone crazy!
 There's no one on Earth that can save me, not even Hailie
 I think my dad's gone crazy! (Crazy)
 
-[Outro: Eminem & Hailie Jade]
+<endVerse>
+<startOutro>
 Crazy
 Ha-ha-ha-ha ha-ha-ha-ha
 You're funny, Daddy!
-<endVerse>
+<endOutro>
 <endSong>"
 272,"<startSong>
 <startIntro>
@@ -28733,7 +28837,8 @@ From these bitches on our dicks
 Fuckin' chickens with no ribs
 That's why I ain't got no time
 
-[Outro: Eminem & Obie Trice]
+<endChorus>
+<startOutro>
 I'm busy, yeah, fuck these bitches!
 Fuck 'em all!
 Get money, Shady Records
@@ -28742,7 +28847,7 @@ Obie Trice! Eminem, motherfucker!
 New millennium shit, yeah
 Turn this shit off, man
 Turn this shit the fuck
-<endChorus>
+<endOutro>
 <endSong>"
 273,"<startSong>
 <startIntro>
@@ -29020,10 +29125,11 @@ You don't wanna fuck with Shady ('Cause why?)
 I said you don't wanna fuck with Shady (Why not?)
 'Cause Shady will fucking kill you
 
-[Outro]
+<endChorus>
+<startOutro>
 Ha-ha-ha, I'm just playing, ladies
 You know I love you
-<endChorus>
+<endOutro>
 <endSong>"
 276,"<startSong>
 
@@ -29174,9 +29280,10 @@ And had his girlfriend in the trunk, and she was pregnant with his kid
 And in the car they found a tape, but they didn't say who it was to
 Come to think about it, his name wasit was you
 
-[Outro]
-Damn
 <endVerse>
+<startOutro>
+Damn
+<endOutro>
 <endSong>"
 277,"<startSong>
 <startIntro>
@@ -29292,9 +29399,10 @@ I never knew I, knew I'd affect this kid
 I never knew I'd get him to slit his wrist
 I never knew I'd get him to hit this bitch
 
-[Outro]
-How the fuck was I supposed to know?
 <endChorus>
+<startOutro>
+How the fuck was I supposed to know?
+<endOutro>
 <endSong>"
 278,"<startSong>
 [Segue from ""Steve Berman (Skit)""]
@@ -29497,12 +29605,13 @@ And reappear in hell with a can of gas and a match
 Aftermath, Dre, grab the gat, show 'em where it's at!
 (What the fuck you starin' at, nigga?)
 
-[Outro: Eminem]
+<endVerse>
+<startOutro>
 Don't you remember me?!
 Remember me?!
 Remember me?!
 Remember me!! (Slim Shady!)
-<endVerse>
+<endOutro>
 <endSong>"
 280,"<startSong>
 <startChorus>
@@ -29619,7 +29728,8 @@ I'm back (I'm back), I'm back
 They call me Slim Shady (I'm back)
 I'm back (I'm back), I'm back
 
-[Outro]
+<endChorus>
+<startOutro>
 Guess who's b-back, back
 Gue-gue-guess who's back (hi, Mom!)
 {??*scratch*}?? Guess who's back
@@ -29630,7 +29740,7 @@ Dr. Dre {??*scratch*}?? guess who's back
 Back back {??*scratch*}?? back {??*scratch*}??
 Slim Shady, 2001
 I'm blew out from this blunt (*sighs*) fuck
-<endChorus>
+<endOutro>
 <endSong>"
 281,"<startSong>
 <startIntro>
@@ -29930,12 +30040,13 @@ They won't let me ever let 'em go (Go)
 I'm a sucker all I gotta say (Whoa)
 These drugs really got a hold of me (Whoa)
 
-[Outro: Eminem]
+<endVerse>
+<startOutro>
 Drugs really got a hold of me
 Really got a hold of me
 These drugs really got a hold of me
 They really got a hold of me
-<endVerse>
+<endOutro>
 <endSong>"
 284,"<startSong>
 <startIntro>
@@ -30026,7 +30137,8 @@ He'll accidentally kill your family still
 Thinkin' he won't, goddammit he will
 He's mentally ill from Amityville
 
-[Outro: Eminem]
+<endChorus>
+<startOutro>
 Dum, tahh-dum; ta-dah-da
 Dum, tahh-dum; ta-dah-da
 Dum, tahh-dum; ta-dah-da
@@ -30037,7 +30149,7 @@ Dum, tahh-dum; ta-dah-da
 Dum, tahh-dum; ta-dah-da
 Dum
 
-<endChorus>
+<endOutro>
 <endSong>"
 285,"<startSong>
 <startIntro>
@@ -30158,12 +30270,13 @@ Only nigga that I trust is me
 Fuck around and make me bust this heat
 That's the devil, they always wanna dance
 
-[Outro: Xzibit]
+<endChorus>
+<startOutro>
 2001 and forever
 Slim Shady, Dr. Dre
 Snoop Dogg, X to the Z
 Nate Dogg, come on, yeah
-<endChorus>
+<endOutro>
 <endSong>"
 286,"<startSong>
 <startIntro>
@@ -30399,13 +30512,14 @@ So you can suck my dick if you don't like my shit
 Cause I don't give a fuck if you don't like my shit
 Cause I was high when I wrote this, so suck my dick!
 
-[Outro: Eminem]
+<endVerse>
+<startOutro>
 Ha-ha! Suck my motherfuckin' dick!
 D12, Dirty-motherfuckin'-Dozen
 Nasty like a stank slut bitch with thirty fuckin' husbands
 Bizarre Kid, Swifty McVay, the Kon Artis
 The Kuniva, Derty Harry, and Slim Shady
-<endVerse>
+<endOutro>
 <endSong>"
 288,"<startSong>
 <startIntro>
@@ -30557,9 +30671,10 @@ To tell 'em what's on my mind, I guess I'm a criminal!
 I don't gotta say a word, I just flip 'em the bird
 And keep goin', I don't take shit from no one
 
-[Outro]
-(I am) I'm a criminal!
 <endChorus>
+<startOutro>
+(I am) I'm a criminal!
+<endOutro>
 <endSong>"
 289,"<startSong>
 <startIntro>
@@ -30686,12 +30801,13 @@ All you other Slim Shadys are just imitating
 So won't the real Slim Shady please stand up
 Please stand up, please stand up?
 
-[Outro]
+<endChorus>
+<startOutro>
 Ha ha, I guess theres a Slim Shady in all of us
 Fuck it, lets all stand up!
 
 [Produced by Dr. Dre & Mel-Man]
-<endChorus>
+<endOutro>
 <endSong>"
 290,"<startSong>
 Skit: Slim Shady, Eminem]
@@ -30923,7 +31039,8 @@ Because I'd still be out robbin' armored trucks
 If I had one wish, I would ask
 For a big enough ass for the whole world to kiss
 
-[Outro]
+<endChorus>
+<startOutro>
 You know what I'm sayin'?
 I'm tired of all of this bullshit, tellin' me to be positive
 How am I 'posed to be positive when I don't see shit positive?
@@ -30935,7 +31052,7 @@ Tired of all this player-hatin' that's goin' on in my own city
 Can't get no airplay, you know what I'm sayin'?
 But hey, it's cool though, you know what I'm sayin'?
 I'm just fed up, that's my word
-<endChorus>
+<endOutro>
 <endSong>"
 293,"<startSong>
 <startIntro>
@@ -31064,11 +31181,12 @@ It's Eminem and Swift from the 313
 No one, no one is iller than me
 It's Fuzz and Buzz-arre from the 313
 
-[Outro: Bizzare]
+<endVerse>
+<startOutro>
 You have now witnessed four ill emcees
 From the home of potholes and trash
 We'll lyrically blast
-<endVerse>
+<endOutro>
 <endSong>"
 294,"<startSong>
 [Scratches: DJ Lenn Swann]
@@ -31273,11 +31391,12 @@ But see me on the street and duck
 'Cause you finna get stuck, stoned, and snuffed
 ('Cause I just don't give a fuck)
 
-[Outro: Eminem]
+<endChorus>
+<startOutro>
 (Shit, fuck everybody)
 Outsiderz, Pacewon, Young Zee (Fuck the entire world)
 D.U
-<endChorus>
+<endOutro>
 <endSong>"
 296,"<startSong>
 [Produced by Bass Brothers]
@@ -31376,7 +31495,8 @@ And when we ride
 Just the two of us, just the two of us
 Just you and I
 
-[Outro]
+<endVerse>
+<startOutro>
 Just me and you, baby, is all we need in this world
 Just me and you
 Your dada will always be there for you
@@ -31385,7 +31505,7 @@ If you ever need me I will always be here for you
 If you ever need anything, just ask
 Dada will be right there
 Your dada loves you  I love you, baby
-<endVerse>
+<endOutro>
 <endSong>"
 297,"<startSong>
 
@@ -31484,10 +31604,11 @@ Now I'm tryin' to repent from it, but when I hear the beat
 I'm tempted to make another attempt at it
 I'm Infinite
 
-[Outro]
+<endVerse>
+<startOutro>
 '95 ('95), '96 ('96)
 And on, and on, and on, and on (And on)
-<endVerse>
+<endOutro>
 <endSong>"
 298,"<startSong>
 <startIntro>
@@ -31904,7 +32025,8 @@ But there's somethin' that I gotta tell your ass""
 I said ""What is it? Another nigga? It's okay""
 She said: ""No I forgot to tell you
 That I got AIDS, I got a problem.""
-[Outro: Maxine & Denaun Porter]
+<endVerse>
+<startOutro>
 Hey, Maxine
 What?
 You thinkin' about suckin' my dick?
@@ -31926,7 +32048,7 @@ No, see
 You got that shit, I ain't gotta fuck with you
 Hold on, why it ain't even like that
 I want y'all to get paid, fuckin'
-<endVerse>
+<endOutro>
 <endSong>"
 303,"<startSong>
 <startIntro>
@@ -32033,7 +32155,8 @@ Point him out! Bitch, I wanna know
 Who the fuck passed you the mic
 And said that you can flow?
 ""I wanna know, I wanna know""
-[Outro: Thyme]
+<endVerse>
+<startOutro>
 Whhhooo the fuck passed you the mic
 And said that you can flow?!
 Point him out! I wanna know
@@ -32046,7 +32169,7 @@ And said that you can flow?
 Who the fuck passed you the mic?!
 Who the fuck passed you the mic?!
 (I got the rhymes, bitch, I'll kick that shit)
-<endVerse>
+<endOutro>
 <endSong>"
 304,"<startSong>
 <startIntro>
@@ -32144,7 +32267,8 @@ It's on you, baby, 'cause you can be a star
 No matter wherever you are
 You're never too far from revenue, huh
 
-[Outro: Eminem and Denaun]
+<endVerse>
+<startOutro>
 Em: That's what I'm talkin' about.
 I'm not tryna be the player, I'm tryna be the mayor.
 I want to be president.
@@ -32155,7 +32279,7 @@ Gettin' money any time I want, ownin' my own businesses and all that. You know w
 Em: Yeah, I'm tryna be a millionaire, man.
 De: Hahaha, but don't all, you know?
 You only live once, '96, baby
-<endVerse>
+<endOutro>
 <endSong>"
 305,"<startSong>
 <startIntro>
@@ -32576,11 +32700,12 @@ Just 'cause you look in the mirror and think
 That you're Marshall Mathers (Marshall Mathers)
 Don't mean you are, and you're not about it
 So just leave my dick in your mouth and keep my daughter out it
-[Outro]
+<endVerse>
+<startOutro>
 You fuckin'oh
 And I'm just playin', Diddy
 You know I love you
-<endVerse>
+<endOutro>
 <endSong>"
 309,"<startSong>
 <startVerse>
@@ -32742,7 +32867,8 @@ We were meant to be
 And I love you too
 And I promise Ill be true to you
 
-[Outro: Eminem]
+<endVerse>
+<startOutro>
 It is not about lyrics anymore
 It is not about lyrics anymore
 It's about a hot beat, a hot beat
@@ -32760,7 +32886,7 @@ Now, get out there and sell some goddamn records!
 Now, get out there and sell some goddamn records!
 Now, get out there and sell some goddamn records!
 Now, get out there and sell some
-<endVerse>
+<endOutro>
 <endSong>"
 311,"<startSong>
 <startVerse>
@@ -32870,9 +32996,10 @@ In the air for you and pour some liquor out
 With Obie in the parking lot of 54 just before
 We were supposed to get in cars to come and see you once more
 Difficult as it sounds
-[Outro: Obie Trice]
-Doody!
 <endVerse>
+<startOutro>
+Doody!
+<endOutro>
 <endSong>"
 312,"<startSong>
 <startIntro>
@@ -33513,7 +33640,8 @@ And I don't mind if I debut at number two
 So why do you? If we make money
 Then why can't you be satisfied with what you do?
 
-[Outro]
+<endVerse>
+<startOutro>
 Peace
 Hold a head up, partner
 You know how we do what we gonna do
@@ -33523,7 +33651,7 @@ We gon' touchdown, you know we gon' get it crackin' man
 We gon' touchdown, I told you ain't no way to keep 'em quiet
 With T.I. and Shady, baby, they gon' make a bigger riot
 When we touchdown
-<endVerse>
+<endOutro>
 <endSong>"
 320,"<startSong>
 <startIntro>
@@ -33634,7 +33762,8 @@ When I die, I take the whole world with me
 You know my flow is so ill
 MCs on the microphone and get verbally killed (Killed!)
 
-[Outro: Pacewon]
+<endChorus>
+<startOutro>
 All yall niggasll get killed
 Fucking with the Dirty D
 Pacewon up in this motherfucker
@@ -33643,7 +33772,7 @@ You MC, I dont give a fuck where you from
 Close to me or far from me
 Ima see your wack ass
 Pacewon! Pacewon!
-<endChorus>
+<endOutro>
 <endSong>"
 321,"<startSong>
 <startVerse>
@@ -34009,7 +34138,8 @@ I'll be livin' this hip-hop till hell freezes over
 And as the world turns and I keep growin' older
 I'll be livin' this hip-hop till hell freezes over
 
-[Outro]
+<endVerse>
+<startOutro>
 Uh (Uh-uh, uh uh-uh, uh uh)
 Uh uh-uh uh uh
 Ah ah-ah ah ah
@@ -34019,7 +34149,7 @@ Uh uh-uh uh uh (Dr. Dre)
 Ah ah-ah ah ah
 (Slim Shady)
 (Outsidaz)
-<endVerse>
+<endOutro>
 <endSong>"
 326,"<startSong>
 <startIntro>
@@ -34358,12 +34488,13 @@ What would you give for a little bit of that c-o-c-a-i-n-e?
 (Cause once you cave in, you don't want to leave)
 I got to have it, yeah I made it, I'm addicted, yeah I'm fading
 (Cause once you cave in, you don't want to leave)
-[Outro]
+<endVerse>
+<startOutro>
 Guess I can't leave it
 So I'm ?
 Oh well... (Fame, fame)
 (Fame)
-<endVerse>
+<endOutro>
 <endSong>"
 329,"<startSong>
 I told the world one day I would pay it back
@@ -34583,7 +34714,8 @@ Detroit basketball
 Homie like I told you this is Detroit basketball
 Man I don't think you ready for the
 
-[Outro: Eminem]
+<endVerse>
+<startOutro>
 We get everybody involved, homie, we get everybody involved
 I said, we get everybody involved, homie, we get everybody involved
 Yeah
@@ -34595,7 +34727,7 @@ Tell me you ain't listenin'
 This is Detroit basketball, homie, hey, yo'
 Beam me up, Scottie
 Hahahahahahahahahahaha!
-<endVerse>
+<endOutro>
 <endSong>"
 332,"<startSong>
 <startIntro>
@@ -34672,9 +34804,10 @@ Or stay the fuck outta Hell's Kitchen
 I came to cockblock like a square fucking male chicken
 Yeah, it's Shady, slut, the rest can suck on that big one
 'Cause I'm as despicable as Daffy Duck when I'm spittin'
-[Outro]
-Haha, Recovery
 <endVerse>
+<startOutro>
+Haha, Recovery
+<endOutro>
 <endSong>"
 333,"<startSong>
 <startIntro>
@@ -35372,7 +35505,8 @@ They'll tell ya I'm about my bread
 Round the world if ya ask about me
 They'll tell ya they love the kid
 
-[Outro]
+<endVerse>
+<startOutro>
 Whoa, hey (I-I get it)
 Whoa, hey (I-I get it)
 Whoa, hey (Yeah)
@@ -35397,7 +35531,7 @@ Money I got, money I got
 (I said don't get outta line
 I-I get it, I-I get it
 Yeah, yeah)
-<endVerse>
+<endOutro>
 <endSong>"
 345,"<startSong>
 <startVerse>
@@ -35485,7 +35619,8 @@ And I don't mind if I debut at number two
 So why do you? If we make money
 Then why can't you be satisfied with what you do?
 
-[Outro]
+<endVerse>
+<startOutro>
 Peace
 Hold a head up, partner
 You know how we do what we gonna do
@@ -35495,5 +35630,5 @@ We gon' touchdown, you know we gon' get it crackin' man
 We gon' touchdown, I told you ain't no way to keep 'em quiet
 With T.I. and Shady, baby, they gon' make a bigger riot
 When we touchdown
-<endVerse>
+<endOutro>
 <endSong>"
