@@ -1,11 +1,13 @@
 # Nlp final project
 
+1. Yaniv Gabay - 205745615 - yanivga@edu.hac.ac.il
+2. Shahar Asher - 209305408 - shaharas@edu.hac.ac.il
+3. Hadar Liel Harush - 211721568 - hadarhar@edu.hac.ac.il
+
 Eminem song generator
 
-This project will compare different models, all trained on a legendary hip hop artist Eminem.
-we will try to train those models on a Eminem lyrics dataset, than make each model generate a song 
-for us, what input will he gets? we still debate if to give him a "prompt" for the song, or to just generate songs from
-scrath without prompts.
+This project will compare different models, all trained on the legendary hip-hop artist Eminem lyrics. We will train these models on an Eminem lyrics dataset. Then, we'll have each model generate a song for us. We're still debating whether to give each model a "prompt" for the song or to have them generate songs from scratch.
+
 
 we will want to judge the quality, in three ways:
 1.preplexity 
@@ -13,39 +15,51 @@ we will want to judge the quality, in three ways:
 3. send the results to chatGpt and ask him
 
 We do want to get a response already formatted in a song, so there will be some challenges there.
+For example:
+`<verse>`
+lyrics
+`<chorus>`
+lyrics
+`<verse>`
+lyrics
 
-Actual steps:
-1. Get the Eminem dataset (probally hugginface)
-   1. we have to decide what type of lyrical dateset we choose, we saw 2 options, dataset including <verse> and <chorus> , and ones who are already stripped and are lyrics only.
-   2. it will change the preproccessing part depend on choice.
-2. Preprocess the dataset - we should be carefull, lyrics may contain slang, dialectical expressions, or intentionally misspelled words to convey rhythm,    rhyme, or emphasis.
-   1. do we lemmetize? probally not.
-   2. depend on the dataset choosen, which <TAGS> we save, which are helpfull for us, for example, even new line tag, can be possible advatagous to know rhyming wise and struct song wise. of course the <verse X> and <chourus> or <intro> can also be usefull. <Newline>. <interlude>.<outro>.
-   3. some databases use (lyrics) - which means background singing, do we want this
-   4. D-R-E || N.W.A - what we do with references like this? or letters spelling in the song? do we want the network to learn those?
-   5. of course, more challenges will occur to solve.
-3. Tokenization 
-   1. this will be changed/affected depend on the preproccing part.
-   2. we will try to use subword-level tokenization, for example BPE.
-       1. several options will be performe depend on time taken from google collab, althourgh the dataset is small. bpe | wordpiece 
+## Actual steps:
+
+
+1. **Obtain the Eminem dataset (probably from Hugging Face).**
+   - We need to decide on the type of lyrical dataset to use. We've identified two options: one including <verse> and <chorus>, and another with lyrics already stripped and containing only the lyrical content.
+   - This choice will affect the preprocessing stage.
+
+2. **Preprocess the Dataset**
+   - Careful consideration is needed as lyrics may contain slang, dialectical expressions, or intentionally misspelled words to convey rhythm, rhyme, or emphasis.
+   - Lemmatization is likely not suitable due to the creative use of language in lyrics.
+   - The choice of dataset will determine which tags to retain. Tags like `<verse>`, `<chorus>`, `<newline>`, `<intro>`, `<interlude>`, and `<outro>` can be crucial for understanding song structure and rhyme schemes.
+   - Some databases mark background vocals with `(lyrics)`. Deciding whether to include these will depend on the desired complexity of the generated songs.
+   - References such as "D-R-E" or "N.W.A" or instances where letters are spelled out in songs should be carefully considered. The decision to teach the network these references depends on the goal of maintaining authentic stylistic elements.
+   - Additional challenges are expected to arise during preprocessing and will need to be addressed accordingly.
+
+3. **Tokenization:**
+   - Tokenization will be changed/affected depending on the preprocessing part.
+   - Implement subword-level tokenization, considering Byte Pair Encoding (BPE) or WordPiece.
+
    
-4. Embeddings
-    1. we want to try different embeddings
-       1. GPT API
-       2. ElMo 
-       3. Flair
-    2. we will compare them as each one will be an input to a bilstm.
- 5. Models and training
-    1. 3 bi-lstms for each embedding
-    2. gpt-2 fine tuned
-    3. T5 fine tuned 
-5. Evaluation 
-   1. preplexity calculations for each
-   2. manual human checks by categories and some kind of grading
-   3. send results via chatGpt API (or manually) and ask him about the results or if he idenfiy the results as an eminem hiphop song.
-6. Analysis and documention
-   1. what each models did better, what wasnt good.
-   2. conclusion and best results
+4. **Embeddings**
+   - Experiment with GPT API, ELMo, and Flair embeddings.
+   - Each embedding will be used with a separate Bi-LSTM model for comparison.
+5. **Model Training**
+   - Train three Bi-LSTM models, one for each type of embedding.
+   - Fine-tune GPT-2 and T5 models on the Eminem lyrics dataset.
+6. **Evaluation:**
+   - Perform perplexity calculations for each model.
+   - Conduct manual human checks by categories and implement some form of grading system.
+   - Send the results via the ChatGPT API (or manually) and inquire about whether the results are identified as an Eminem hip-hop song.
+
+7. **Analysis and Documentation:**
+
+   - Evaluate the performance of each model
+   - Comparison of Model Performances
+   - Conclusion and Best Result
+    
    
 
 
