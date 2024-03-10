@@ -37,7 +37,7 @@ lyrics
    - Some databases mark background vocals with `(lyrics)`. Deciding whether to include these will depend on the desired complexity of the generated songs.
    - References such as "D-R-E" or "N.W.A" or instances where letters are spelled out in songs should be carefully considered. The decision to teach the network these references depends on the goal of maintaining authentic stylistic elements.
    - Additional challenges are expected to arise during preprocessing and will need to be addressed accordingly.
-
+   - we want to check phonetic libraries and maybe embeed that aswell
 3. **Tokenization:**
    - Tokenization will be changed/affected depending on the preprocessing part.
    - Implement subword-level tokenization, considering Byte Pair Encoding (BPE) or WordPiece.
