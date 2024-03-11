@@ -26,6 +26,11 @@ lyrics
 ## Actual steps:
 
 
+
+
+
+
+
 1. **Obtain the Eminem dataset (probably from Hugging Face).**
    - We need to decide on the type of lyrical dataset to use. We've identified two options: one including <verse> and <chorus>, and another with lyrics already stripped and containing only the lyrical content.
    - This choice will affect the preprocessing stage.
