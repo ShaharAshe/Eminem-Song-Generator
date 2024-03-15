@@ -54,12 +54,17 @@ def handle_special(lyrics):
     output_string = re.sub(r'["]', ' ', output_string)
     # Replace : and ; with a space
     output_string = re.sub(r'[:;]', ' ', output_string)
+    # Replace _ with a space
+    output_string = re.sub(r'[_]', ' ', output_string)
+
+    # Replace & with a space
+    output_string = re.sub(r'[&]', ' and ', output_string)
     # Replace . with a space
     output_string = re.sub(r'[.]', ' ', output_string)
     # Replace [ and ] with a space
     output_string = re.sub(r'[\[\]]', ' ', output_string)
     # Remove ( ) and replace \n with a space
-    output_string = re.sub(r"[\(\)]", '', output_string)
+    output_string = re.sub(r"[\(\)]", ' ', output_string)
     output_string = re.sub(r"\n", ' ', output_string)
     # Additional step to remove extra spaces created by the substitutions
     output_string = re.sub(r'\s+', ' ', output_string).strip()
@@ -106,3 +111,39 @@ def expand_contractions(text, contractions_dict):
     contractions_pattern = re.compile(r'\b({})\b'.format('|'.join(contractions_dict.keys())), flags=re.IGNORECASE)
     expanded_text = contractions_pattern.sub(expand_match, text)
     return expanded_text
+import re
+
+def handle_special(lyrics):
+    # Create a dictionary of replacement rules
+    replacements = {
+        r"[']": '' ,
+        r"[\-_?!]": ' ',  # Replace apostrophes, hyphens, question and exclamation marks with a space
+        r'["*:;_\{\}\[\]()]': ' ',  # Replace other punctuations with a space
+        r'[&]': ' and ',  # Replace ampersand with 'and'
+        r'[.]': ' ',  # Replace period with a space
+        r'\n': ' ',  # Replace newlines with a space
+    }
+
+    # Apply all replacements
+    for pattern, replacement in replacements.items():
+        lyrics = re.sub(pattern, replacement, lyrics)
+
+    # Remove extra spaces
+    lyrics = re.sub(r'\s+', ' ', lyrics).strip()
+
+    return lyrics
+
+# Tests
+test_cases = [
+    "Hello, world!",  # Test punctuation removal
+    "Rock & Roll",  # Test ampersand replacement
+    "High-____quality",  # Test hyphen removal
+    "It's a test",  # Test apostrophe removal
+    "(This is in parentheses)",  # Test parentheses removal
+    "Multi\nLine\nText",  # Test newline replacement
+    "{Curly} [Brackets] *Asterisk*",  # Test various symbols removal
+]
+
+# Run tests and display results
+test_results = [(test, handle_special(test)) for test in test_cases]
+print(test_results)
