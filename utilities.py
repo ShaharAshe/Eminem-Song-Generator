@@ -1,74 +1,103 @@
 
 import pandas as pd
 import re
-def export_data(data,stage,debug_mode):
-    if(not debug_mode):
+
+
+
+def export_data_to_csv(data, stage, debug_mode=False):
+    """
+    Exports DataFrame to a CSV file. Used for debugging purposes.
+
+    Parameters:
+    - data (DataFrame): The pandas DataFrame to export.
+    - stage (str): Descriptive name for the export stage to include in the file name.
+    - debug_mode (bool, optional): Flag to control the export functionality. Default is False.
+
+    Returns:
+    - None
+    """
+    if not debug_mode:
         return
     try:
-        data.to_csv('data_'+stage+'.csv')
+        data.to_csv(f'data_{stage}.csv')
     except Exception as e:
-        print("Error exporting the csv file:", e)
-#basic import
-def import_data(location):
-    df = read_data(location)
-    return df
+        print(f"Error exporting the csv file for {stage}: {e}")
 
-def read_data(location):
+def import_data_from_location(location):
+    """
+    Imports data from the given location, trying multiple encodings.
+
+    Parameters:
+    - location (str): The file path or URL to import data from.
+
+    Returns:
+    - DataFrame: The imported data as a pandas DataFrame.
+    """
     try_encodings = ['utf-8', 'latin1', 'utf-16', 'cp1252', 'ISO-8859-1', 'windows-1252']
     for encoding in try_encodings:
         try:
-            df = pd.read_csv(location ,encoding=encoding,delimiter='\t')
+            df = pd.read_csv(location, encoding=encoding, delimiter='\t')
             print(f"Success with encoding: {encoding}")
-            print(df.head())
             return df
-            break
         except Exception as e:
             print(f"Error with encoding {encoding}: {e}")
 
-def remove_non_ascii_and_print(text):
-    cleaned_text = []
-    removed_chars = []
-    for char in text:
-        if ord(char) < 128:
-            cleaned_text.append(char)
-        else:
-            removed_chars.append(char)
+def remove_non_ascii_characters(text):
+    """
+    Removes non-ASCII characters from the text and prints them.
+
+    Parameters:
+    - text (str): The text to clean.
+
+    Returns:
+    - str: The cleaned text with only ASCII characters.
+    """
+    cleaned_text = "".join(char for char in text if ord(char) < 128)
+    removed_chars = set(text) - set(cleaned_text)
     if removed_chars:
-        print(f"Removed characters: {''.join(removed_chars)}")
-    return ''.join(cleaned_text)
+        print(f"Removed non-ASCII characters: {''.join(removed_chars)}")
+    return cleaned_text
 
-def remove_remaining_tags(lyrics):
-    # Pattern to match any text within square brackets
+def remove_tags(lyrics):
+    """
+    Removes text within square brackets, often used to remove metadata or annotations within lyrics.
+
+    Parameters:
+    - lyrics (str): The lyrics text to clean.
+
+    Returns:
+    - str: The cleaned lyrics without square bracket tags.
+    """
     pattern = re.compile(r'\[[^\]]*\]')
-    cleaned_lyrics = re.sub(pattern, '', lyrics)
-    return cleaned_lyrics
+    return re.sub(pattern, '', lyrics)
 
-def handle_special(lyrics):
-    # Replace ' and - and ? and ! with a space
-    output_string = re.sub(r"['\-?!]", ' ', lyrics)
-    #replace { and } with a space
-    output_string = re.sub(r'[\{\}]', ' ', output_string)
-    # Replace * with a space
-    output_string = re.sub(r'[*]', ' ', output_string)
-    # Replace " with a space
-    output_string = re.sub(r'["]', ' ', output_string)
-    # Replace : and ; with a space
-    output_string = re.sub(r'[:;]', ' ', output_string)
-    # Replace _ with a space
-    output_string = re.sub(r'[_]', ' ', output_string)
+def handle_special_characters(lyrics):
+    """
+    Replaces various special characters in the lyrics with spaces or appropriate substitutes.
 
-    # Replace & with a space
-    output_string = re.sub(r'[&]', ' and ', output_string)
-    # Replace . with a space
-    output_string = re.sub(r'[.]', ' ', output_string)
-    # Replace [ and ] with a space
-    output_string = re.sub(r'[\[\]]', ' ', output_string)
-    # Remove ( ) and replace \n with a space
-    output_string = re.sub(r"[\(\)]", ' ', output_string)
-    output_string = re.sub(r"\n", ' ', output_string)
-    # Additional step to remove extra spaces created by the substitutions
-    output_string = re.sub(r'\s+', ' ', output_string).strip()
-    return output_string
+    Parameters:
+    - lyrics (str): The lyrics text to clean.
+
+    Returns:
+    - str: The cleaned lyrics with special characters handled.
+    """
+    # Define replacements in a dictionary
+    replacements = {
+        r"['\-?!]": ' ',
+        r'[\{\}]': ' ',
+        r'[*]': ' ',
+        r'["]': ' ',
+        r'[:;]': ' ',
+        r'[_]': ' ',
+        r'[&]': ' and '
+    }
+    for pattern, replacement in replacements.items():
+        lyrics = re.sub(pattern, replacement, lyrics)
+    return lyrics.strip()
+
+
+
+
 
 contractions_dict = {
     "im": "i am",
@@ -99,41 +128,38 @@ contractions_dict = {
     "shouldnt": "should not",
     # Add more contractions and their expansions as needed
 }
-import re
 
-def expand_contractions(text, contractions_dict):
+
+def expand_contractions(text, contractions_dict=contractions_dict):
+    """
+    Expands contractions in the given text based on a contractions dictionary.
+
+    Parameters:
+    - text (str): The text with contractions to expand.
+    - contractions_dict (dict, optional): A dictionary mapping contractions to their expanded forms. Default is the predefined contractions_dict.
+
+    Returns:
+    - str: The text with contractions expanded.
+    """
+    # Function to expand a single contraction
     def expand_match(contraction):
         match = contraction.group(0)
         first_word, rest = re.match(r"(\w+)(.*)", match, re.IGNORECASE).groups()
-        expanded_contraction = contractions_dict.get(first_word.lower(), first_word.lower()) + rest
+        expanded_contraction = contractions_dict.get(first_word.lower(), first_word + rest)
         return expanded_contraction
 
+    # Compile a regular expression pattern with all contractions
     contractions_pattern = re.compile(r'\b({})\b'.format('|'.join(contractions_dict.keys())), flags=re.IGNORECASE)
+    
+    # Expand contractions in the text
     expanded_text = contractions_pattern.sub(expand_match, text)
     return expanded_text
-import re
 
-def handle_special(lyrics):
-    # Create a dictionary of replacement rules
-    replacements = {
-        r"[']": '' ,
-        r"[\-_?!]": ' ',  # Replace apostrophes, hyphens, question and exclamation marks with a space
-        r'["*:;_\{\}\[\]()]': ' ',  # Replace other punctuations with a space
-        r'[&]': ' and ',  # Replace ampersand with 'and'
-        r'[.]': ' ',  # Replace period with a space
-        r'\n': ' ',  # Replace newlines with a space
-    }
 
-    # Apply all replacements
-    for pattern, replacement in replacements.items():
-        lyrics = re.sub(pattern, replacement, lyrics)
 
-    # Remove extra spaces
-    lyrics = re.sub(r'\s+', ' ', lyrics).strip()
 
-    return lyrics
-
-# Tests
+# ####Tests######
+'''
 test_cases = [
     "Hello, world!",  # Test punctuation removal
     "Rock & Roll",  # Test ampersand replacement
@@ -147,3 +173,4 @@ test_cases = [
 # Run tests and display results
 test_results = [(test, handle_special(test)) for test in test_cases]
 print(test_results)
+'''
