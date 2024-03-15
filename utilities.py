@@ -71,28 +71,42 @@ def remove_tags(lyrics):
     pattern = re.compile(r'\[[^\]]*\]')
     return re.sub(pattern, '', lyrics)
 
+import re
+
 def handle_special_characters(lyrics):
     """
-    Replaces various special characters in the lyrics with spaces or appropriate substitutes.
+    Cleans the lyrics by handling various special characters. Specific characters are
+    removed or replaced with spaces or appropriate substitutes to simplify the text and
+    potentially improve the model's learning efficiency.
 
     Parameters:
-    - lyrics (str): The lyrics text to clean.
+    - lyrics (str): The lyrics text to be cleaned.
 
     Returns:
     - str: The cleaned lyrics with special characters handled.
     """
-    # Define replacements in a dictionary
+
+    #print("Original Lyrics:", lyrics)
     replacements = {
-        r"['\-?!]": ' ',
-        r'[\{\}]': ' ',
-        r'[*]': ' ',
-        r'["]': ' ',
-        r'[:;]': ' ',
-        r'[_]': ' ',
-        r'[&]': ' and '
+        r"[\(\)]": '',  # Remove parentheses
+        r"[']": '',  # Remove apostrophes
+        r"[\-?!]": ' ',  # Replace hyphens, question marks, and exclamation marks with spaces
+        r"[\{\}]": ' ',  # Replace curly braces with spaces
+        r"[*]": ' ',  # Replace asterisks with spaces
+        r"[\"]": ' ',  # Replace double quotes with spaces
+        r"[:;]": ' ',  # Replace colons and semicolons with spaces
+        r"[_]": ' ',  # Replace underscores with spaces
+        r"[&]": ' and ',  # Replace '&' with 'and'
+        r"[\n]": ' ',  # Replace newlines with spaces
+    
+      
     }
     for pattern, replacement in replacements.items():
         lyrics = re.sub(pattern, replacement, lyrics)
+
+    # Remove extra spaces that might have been introduced by the replacements
+    lyrics = re.sub(r'\s+', ' ', lyrics)
+    #print("Processed Lyrics:", lyrics) 
     return lyrics.strip()
 
 
@@ -129,6 +143,9 @@ contractions_dict = {
     # Add more contractions and their expansions as needed
 }
 
+test_string = "This is a testwith the character."
+cleaned_string = remove_non_ascii_characters(test_string)
+print("Cleaned String:", cleaned_string)
 
 def expand_contractions(text, contractions_dict=contractions_dict):
     """
