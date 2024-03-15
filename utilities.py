@@ -94,10 +94,15 @@ contractions_dict = {
     "shouldnt": "should not",
     # Add more contractions and their expansions as needed
 }
-def expand_contractions(tokens, contractions_dict):
-    expanded_tokens = []
-    for token in tokens:
-        # Check if the token is a contraction and expand it if necessary
-        expanded_token = contractions_dict.get(token.lower(), token)
-        expanded_tokens.extend(expanded_token.split())  # Split expanded form into individual tokens
-    return expanded_tokens
+import re
+
+def expand_contractions(text, contractions_dict):
+    def expand_match(contraction):
+        match = contraction.group(0)
+        first_word, rest = re.match(r"(\w+)(.*)", match, re.IGNORECASE).groups()
+        expanded_contraction = contractions_dict.get(first_word.lower(), first_word.lower()) + rest
+        return expanded_contraction
+
+    contractions_pattern = re.compile(r'\b({})\b'.format('|'.join(contractions_dict.keys())), flags=re.IGNORECASE)
+    expanded_text = contractions_pattern.sub(expand_match, text)
+    return expanded_text
