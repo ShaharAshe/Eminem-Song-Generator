@@ -2,3 +2,6 @@
 .csv
 .pyc
 __pycache__
+.env
+.env.test
+GEMINI.env
