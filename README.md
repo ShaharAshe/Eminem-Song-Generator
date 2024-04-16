@@ -1,7 +1,7 @@
 # NLP Final Project: Eminem Song Generator
 
 ## Overview
-This project is an exploration into Natural Language Processing (NLP) and neural networks, specifically focusing on generating song lyrics in the style of the iconic rapper Eminem. The project compares different models, all trained on a dataset of Eminem's lyrics, to find the most effective approach in capturing the unique style and essence of his music.
+This project is an exploration into Natural Language Processing (NLP) and neural networks, specifically focusing on generating song lyrics in the style of the iconic rapper Eminem. The project compares different models, a self trained bi lstm network, gpt2 , and gemini new free api.
 
 ## Team Members
 - Yaniv Gabay: yanivga@edu.hac.ac.il
