@@ -19,7 +19,7 @@ This project is an exploration into Natural Language Processing (NLP) and neural
 - Clone the project repository to your local machine.
 
 ## Usage
-1. Begin with the `FinalProject.ipynb` notebook to understand the project scope and methodology.
+1. Begin with the `FinalProject.ipynb` notebook to train a BILSTM network.
 2. Use `Gpt2.ipynb` to train the GPT-2 model and generate Eminem-style song lyrics.
 3. The `utilities.py` script is imported and used within the notebooks for various utility functions.
 
